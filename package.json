@@ -1,0 +1,25 @@
+{
+  "name": "chalenge-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepare": "husky install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MariaDelMar23/202204-W2CH2-mariadelmar-cegarra.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MariaDelMar23/202204-W2CH2-mariadelmar-cegarra/issues"
+  },
+  "homepage": "https://github.com/MariaDelMar23/202204-W2CH2-mariadelmar-cegarra#readme",
+  "devDependencies": {
+    "@types/jest": "^27.4.1",
+    "husky": "^7.0.0",
+    "jest": "^27.5.1"
+  }
+}
